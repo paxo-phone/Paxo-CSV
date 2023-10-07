@@ -1,7 +1,7 @@
 #include <iostream>
 #include <string>
 
-#include "csv.hpp"
+#include "src/csv.hpp"
 
 int main(int argc, char** argv)
 {
